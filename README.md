@@ -1,0 +1,1 @@
+Our dataset is a collection of financial records and associated information/features used to determine the ELIGIBILITY  of individuals  in  obtaining loans from a lending institution. It includes various factors such as cibil score, income, employment status, loan term, loan amount, assets value, and loan status. .
